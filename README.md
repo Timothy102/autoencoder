@@ -6,5 +6,5 @@ For example, the notorious PCA (Principal Component Analysis) attempts to come u
 
 As you might have guessed, it's great because it uses an encoder on the language you' re trying to translate and does so by creating an inner representation or data codings. A decoder then unveils these codings into a desired output.
 
-<img src="https://nathanhubens.github.io/posts/images/autoencoders/AE.png" alt="drawing" width="750"/>
+<img src="https://github.com/Timothy102/autoencoder/blob/main/images/img.png" alt="drawing" width="750"/>
 
