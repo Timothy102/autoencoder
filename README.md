@@ -8,3 +8,11 @@ As you might have guessed, it's great because it uses an encoder on the language
 
 <img src="https://github.com/Timothy102/autoencoder/blob/main/images/img.png" alt="drawing" width="750"/>
 
+
+
+The convolutional autoencoder is a set of encoder, consists of convolutional, maxpooling and batchnormalization layers, and decoder, consists of convolutional, upsampling and batchnormalization layers. The goal of convolutional autoencoder is to extract feature from the image, with measurement of binary crossentropy between input and output image
+
+<img src="https://github.com/Timothy102/autoencoder/blob/main/images/12.png" alt="drawing" width="750"/>
+
+
+LinkedIn : https://www.linkedin.com/in/tim-cvetko-32842a1a6/   :D
